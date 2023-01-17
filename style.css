@@ -1,0 +1,17 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://katchintech.com/wp-content/uploads/2022/07/React-jS.jpg);
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?w=360);
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-3MpDWqLmwm4qqar83xIK9ypCwEmRfsGtFVwsxUH8xkSDbgm18Iktuha6oC4PeuElBc&usqp=CAU);
+}
